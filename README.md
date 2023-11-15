@@ -1,8 +1,8 @@
-# fazua_task
+# Fazua task
 Embedded software task for applicant Matthias Falger
 
 ## Grandma scheduler
-You will find the flowchart for the scheduler in the file <br />
+You will find the flowchart for the scheduler in the file scheduler.c <br />
 The source file is scheduler.c <br />
 
 
